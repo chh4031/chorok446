@@ -3,7 +3,7 @@
 
 Skills<br>
 
-<img src="https://img.shields.io/badge/-Javascript-FFD400?style=flat-square&logo=Javascript&logoColor=black"/><img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=black"/><img src="https://img.shields.io/badge/-Mysql-#4479A1?style=flat-square&logo=Mysql&logoColor=black"/>
+<img src="https://img.shields.io/badge/-Javascript-FFD400?style=flat-square&logo=Javascript&logoColor=black"/><img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=black"/><img src="https://img.shields.io/badge/-MySQL-#4479A1?style=flat-square&logo=MySQL&logoColor=black"/>
 
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=dongwon98123)](https://github.com/dongwon98123)      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dongwon98123&layout=compact)](https://github.com/dongwon98123/github-readme-stats)
 
