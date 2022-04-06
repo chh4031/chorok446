@@ -5,5 +5,5 @@
 
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=dongwon98123)](https://github.com/dongwon98123)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dongwon&layout=compact)](https://github.com/dongwon9/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dongwon98123&layout=compact)](https://github.com/dongwon98123/github-readme-stats)
 
