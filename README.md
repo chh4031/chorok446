@@ -3,7 +3,7 @@
 <img src="https://img.shields.io/badge/Python-376Ab?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
 <img src="https://img.shields.io/badge/-Javascript-FFF00?style=flat-square&logo=Javascript&logoColor=black"/>
 
-[![*'s github stats](https://github-readme-stats.vercel.app/api?username=dongwon98123)]    (https://github.com/dongwon98123)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dongwon98123&layout=compact)](https://github.com/dongwon98123/github-readme-stats)
+[![*'s github stats](https://github-readme-stats.vercel.app/api?username=dongwon98123)](https://github.com/dongwon98123)      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dongwon98123&layout=compact)](https://github.com/dongwon98123/github-readme-stats)
 
 
 
